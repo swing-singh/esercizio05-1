@@ -1,2 +1,2 @@
 # esercizio05
-Creato file main che raddoppia i numeri
+Creato file main che triplica i numeri
