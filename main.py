@@ -1,2 +1,2 @@
 num = int(input("Inserisci un numero "))
-print(num*2)
+print(num*3)
